@@ -1,0 +1,6 @@
+public class none : monoBehavior
+ void star
+ {
+ rb = GetComponent<RigidBody2D>();
+ extraJump = extrta JumpCount;
+ }
